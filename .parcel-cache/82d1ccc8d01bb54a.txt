@@ -38,7 +38,7 @@
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\MP.js133349912014638768 0
 83D:\Programming\my-shop\node_modules\navigo\lib\es\middlewares\checkForBeforeHook.js133349912009138767 0
 67D:\Programming\my-shop\node_modules\lightningcss\node\index.js.flow133349912008888775 0
-35D:\Programming\my-shop\package.json133349916615983965 0
+35D:\Programming\my-shop\package.json133349925431413172 0
 92D:\Programming\my-shop\node_modules\navigo\lib\es\middlewares\matchPathToRegisteredRoutes.js133349912009838772 0
 77D:\Programming\my-shop\node_modules\source-map-js\lib\source-map-generator.js133349912009288763 0
 72D:\Programming\my-shop\node_modules\@swc\helpers\_\_class_name_tdz_error133349912013238775 1

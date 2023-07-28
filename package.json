@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "build": "^0.1.4",
     "navigo": "^8.11.1",
     "parcel": "^2.9.3"
   },
