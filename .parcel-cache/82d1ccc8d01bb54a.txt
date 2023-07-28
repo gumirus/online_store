@@ -1,4 +1,14 @@
-6433
+6463
+85D:\Programming\my-shop\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133349912009238768 0
+42D:\Programming\my-shop\node_modules\braces133349912008798778 1
+96D:\Programming\my-shop\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json133349912013358801 0
+67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\SN.js133349912015198758 0
+53D:\Programming\my-shop\node_modules\svgo\lib\style.js133349912011438767 0
+27D:\Programming\my-shop\dist133349920652595333 1
+58D:\Programming\my-shop\node_modules\concat-map\test\map.js133349912008998760 0
+67D:\Programming\my-shop\node_modules\lmdb\dependencies\lz4\lib\lz4.c133349912010468781 0
+26D:\Programming\my-shop\src133349883552986855 1
+86D:\Programming\my-shop\node_modules\caniuse-lite\data\features\intersectionobserver.js133349912014138763 0
 91D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\parser133349912012088768 1
 63D:\Programming\my-shop\node_modules\svgo\plugins\removeAttrs.js133349912010698775 0
 44D:\Programming\my-shop\node_modules\css-tree133349912013168764 1
@@ -28,7 +38,7 @@
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\MP.js133349912014638768 0
 83D:\Programming\my-shop\node_modules\navigo\lib\es\middlewares\checkForBeforeHook.js133349912009138767 0
 67D:\Programming\my-shop\node_modules\lightningcss\node\index.js.flow133349912008888775 0
-35D:\Programming\my-shop\package.json133349915647089110 0
+35D:\Programming\my-shop\package.json133349916615983965 0
 92D:\Programming\my-shop\node_modules\navigo\lib\es\middlewares\matchPathToRegisteredRoutes.js133349912009838772 0
 77D:\Programming\my-shop\node_modules\source-map-js\lib\source-map-generator.js133349912009288763 0
 72D:\Programming\my-shop\node_modules\@swc\helpers\_\_class_name_tdz_error133349912013238775 1
@@ -57,15 +67,6 @@
 32D:\Programming\my-shop\README.md133349911630225686 0
 54D:\Programming\my-shop\node_modules\is-extglob\LICENSE133349912008238774 0
 53D:\Programming\my-shop\src\js\components\mainTitle.js133349883554236851 0
-85D:\Programming\my-shop\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js133349912009238768 0
-42D:\Programming\my-shop\node_modules\braces133349912008798778 1
-96D:\Programming\my-shop\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json133349912013358801 0
-67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\SN.js133349912015198758 0
-72D:\Programming\my-shop\node_modules\csso\lib\replace\atrule\keyframes.js133349912011728793 0
-53D:\Programming\my-shop\node_modules\svgo\lib\style.js133349912011438767 0
-67D:\Programming\my-shop\node_modules\lmdb\dependencies\lz4\lib\lz4.c133349912010468781 0
-26D:\Programming\my-shop\src133349883552986855 1
-86D:\Programming\my-shop\node_modules\caniuse-lite\data\features\intersectionobserver.js133349912014138763 0
 36D:\Programming\my-shop\src\.DS_Store133349883552674453 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\ME.js133349912014548771 0
 53D:\Programming\my-shop\node_modules\entities\lib\maps133349912009558786 1
@@ -231,8 +232,6 @@
 88D:\Programming\my-shop\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133349912012658763 0
 51D:\Programming\my-shop\node_modules\xxhash-wasm\umd133349912009038781 1
 42D:\Programming\my-shop\node_modules\@babel133349911999173584 1
-50D:\Programming\my-shop\node_modules\.bin\json5.cmd133349912016928755 0
-89D:\Programming\my-shop\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.cjs.map133349912010368763 0
 88D:\Programming\my-shop\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133349912011898782 0
 92D:\Programming\my-shop\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133349912008048760 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\MH.js133349912014588764 0
@@ -251,15 +250,6 @@
 45D:\Programming\my-shop\node_modules\@mischnic133349911999113571 1
 92D:\Programming\my-shop\node_modules\csso\node_modules\css-tree\cjs\parser\parse-selector.cjs133349912011808781 0
 74D:\Programming\my-shop\node_modules\utility-types\dist\mapped-types.js.map133349912009348769 0
-58D:\Programming\my-shop\node_modules\to-regex-range\LICENSE133349912008228770 0
-57D:\Programming\my-shop\node_modules\@lezer\common\LICENSE133349912007858765 0
-75D:\Programming\my-shop\node_modules\caniuse-lite\data\features\dragndrop.js133349912013248777 0
-68D:\Programming\my-shop\node_modules\nth-check\lib\esm\index.d.ts.map133349912009558786 0
-107D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Url.js133349912012208773 0
-65D:\Programming\my-shop\node_modules\@parcel\packager-html\LICENSE133349912007848757 0
-61D:\Programming\my-shop\node_modules\cosmiconfig\dist\index.js133349912009208831 0
-67D:\Programming\my-shop\node_modules\svgo\plugins\removeEmptyText.js133349912010978790 0
-50D:\Programming\my-shop\node_modules\domelementtype133349912009148785 1
 75D:\Programming\my-shop\node_modules\htmlparser2\lib\WritableStream.d.ts.map133349912009458764 0
 94D:\Programming\my-shop\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133349912013278776 0
 45D:\Programming\my-shop\node_modules\commander133349912009188771 1
@@ -339,6 +329,7 @@
 41D:\Programming\my-shop\node_modules\chalk133349912008988801 1
 63D:\Programming\my-shop\node_modules\regenerator-runtime\path.js133349912008038766 0
 72D:\Programming\my-shop\node_modules\css-tree\cjs\syntax\config\lexer.cjs133349912011628774 0
+46D:\Programming\my-shop\dist\index.99ba5a83.css133349917395688239 0
 109D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\has.js133349912011318775 0
 68D:\Programming\my-shop\node_modules\@parcel\transformer-posthtml\lib133349912008488778 1
 49D:\Programming\my-shop\node_modules\parent-module133349912008368759 1
@@ -358,6 +349,15 @@
 80D:\Programming\my-shop\node_modules\caniuse-lite\data\features\resizeobserver.js133349912015078754 0
 50D:\Programming\my-shop\node_modules\dom-serializer133349912009448784 1
 89D:\Programming\my-shop\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts133349912011188781 0
+58D:\Programming\my-shop\node_modules\to-regex-range\LICENSE133349912008228770 0
+57D:\Programming\my-shop\node_modules\@lezer\common\LICENSE133349912007858765 0
+75D:\Programming\my-shop\node_modules\caniuse-lite\data\features\dragndrop.js133349912013248777 0
+68D:\Programming\my-shop\node_modules\nth-check\lib\esm\index.d.ts.map133349912009558786 0
+107D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Url.js133349912012208773 0
+65D:\Programming\my-shop\node_modules\@parcel\packager-html\LICENSE133349912007848757 0
+61D:\Programming\my-shop\node_modules\cosmiconfig\dist\index.js133349912009208831 0
+67D:\Programming\my-shop\node_modules\svgo\plugins\removeEmptyText.js133349912010978790 0
+50D:\Programming\my-shop\node_modules\domelementtype133349912009148785 1
 62D:\Programming\my-shop\node_modules\node-addon-api\except.gypi133349912008368759 0
 55D:\Programming\my-shop\node_modules\graceful-fs\LICENSE133349912007758765 0
 58D:\Programming\my-shop\node_modules\semver\functions\lt.js133349912010028783 0
@@ -1041,6 +1041,7 @@
 66D:\Programming\my-shop\node_modules\type-fest\ts41\camel-case.d.ts133349912009158787 0
 61D:\Programming\my-shop\node_modules\type-fest\ts41\index.d.ts133349912009818775 0
 82D:\Programming\my-shop\node_modules\css-select\node_modules\dom-serializer\LICENSE133349912007868761 0
+47D:\Programming\my-shop\dist\catalog.52389cb2.js133349917395708235 0
 44D:\Programming\my-shop\node_modules\lmdb\bin133349912012178760 1
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\IT.js133349912014178769 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\VU.js133349912015558763 0
@@ -1564,6 +1565,7 @@
 111D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133349912009658777 0
 61D:\Programming\my-shop\node_modules\lightningcss\package.json133349912009438776 0
 90D:\Programming\my-shop\node_modules\csso\node_modules\mdn-data\api\inheritance.schema.json133349912009598750 0
+49D:\Programming\my-shop\dist\index.0f965635.js.map133349917395798236 0
 81D:\Programming\my-shop\node_modules\@swc\helpers\cjs\_class_private_field_get.cjs133349912010128774 0
 60D:\Programming\my-shop\node_modules\@swc\helpers\lib\_get.js133349912012558777 0
 57D:\Programming\my-shop\node_modules\semver\internal\re.js133349912010678781 0
@@ -1889,6 +1891,7 @@
 61D:\Programming\my-shop\node_modules\parcel\src\.eslintrc.json133349912008948768 0
 56D:\Programming\my-shop\node_modules\msgpackr\SECURITY.md133349912011298783 0
 53D:\Programming\my-shop\node_modules\parcel\src\bin.js133349912008328754 0
+50D:\Programming\my-shop\dist\index.0898f127.css.map133349920652585323 0
 105D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\lexer\match-graph.js133349912011738776 0
 60D:\Programming\my-shop\node_modules\dom-serializer\README.md133349912009478762 0
 78D:\Programming\my-shop\node_modules\caniuse-lite\data\features\console-time.js133349912012078764 0
@@ -1968,6 +1971,7 @@
 114D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\pseudo-selectors\pseudos.js133349912009368787 0
 70D:\Programming\my-shop\node_modules\@parcel\reporter-cli\src\render.js133349912009498768 0
 62D:\Programming\my-shop\node_modules\nth-check\lib\compile.d.ts133349912010048772 0
+51D:\Programming\my-shop\dist\catalog.bae1f746.js.map133349920652585323 0
 57D:\Programming\my-shop\node_modules\js-yaml\lib\dumper.js133349912009148785 0
 60D:\Programming\my-shop\node_modules\nth-check\lib\compile.js133349912008088767 0
 86D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\clean133349912011168759 1
@@ -2183,6 +2187,7 @@
 58D:\Programming\my-shop\node_modules\msgpackr\dist\index.js133349912009538769 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\GU.js133349912013798781 0
 67D:\Programming\my-shop\node_modules\css-select\lib\esm\general.d.ts133349912011648779 0
+51D:\Programming\my-shop\dist\product.3b068138.js.map133349917395798236 0
 62D:\Programming\my-shop\node_modules\msgpackr\dist\index.min.js133349912009658777 0
 58D:\Programming\my-shop\node_modules\csso\cjs\clean\Raw.cjs133349912010528791 0
 53D:\Programming\my-shop\node_modules\htmlnano\index.js133349912009528790 0
@@ -2197,6 +2202,7 @@
 55D:\Programming\my-shop\node_modules\micromatch\index.js133349912008048760 0
 56D:\Programming\my-shop\node_modules\@swc\core\types.d.ts133349912010288774 0
 93D:\Programming\my-shop\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133349912011128772 0
+49D:\Programming\my-shop\dist\index.18dbc454.js.map133349920652585323 0
 82D:\Programming\my-shop\node_modules\@parcel\core\lib\requests\ValidationRequest.js133349912012608791 0
 80D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib133349912011808781 1
 59D:\Programming\my-shop\node_modules\htmlnano\lib\helpers.js133349912009408768 0
@@ -2342,6 +2348,8 @@
 72D:\Programming\my-shop\node_modules\lmdb\node_modules\msgpackr\unpack.js133349912010168787 0
 85D:\Programming\my-shop\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.cjs133349912008318794 0
 67D:\Programming\my-shop\node_modules\css-tree\lib\parser\sequence.js133349912012988770 0
+50D:\Programming\my-shop\node_modules\.bin\json5.cmd133349912016928755 0
+89D:\Programming\my-shop\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.cjs.map133349912010368763 0
 92D:\Programming\my-shop\node_modules\lmdb\node_modules\msgpackr\dist\index-no-eval.min.js.map133349912010488771 0
 88D:\Programming\my-shop\node_modules\css-select\node_modules\entities\lib\esm\decode.d.ts133349912011388761 0
 80D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\csso133349912011248791 1
@@ -3135,6 +3143,7 @@
 69D:\Programming\my-shop\node_modules\domelementtype\lib\index.d.ts.map133349912009078767 0
 82D:\Programming\my-shop\node_modules\csso\node_modules\css-tree\cjs\lexer\Lexer.cjs133349912011538763 0
 64D:\Programming\my-shop\node_modules\@swc\helpers\_\_create_super133349912013378760 1
+46D:\Programming\my-shop\dist\index.c92073ef.css133349920652455332 0
 90D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\clean133349912011158783 1
 63D:\Programming\my-shop\node_modules\domelementtype\lib\index.js133349912008438784 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\CL.js133349912011968776 0
@@ -3492,6 +3501,7 @@
 68D:\Programming\my-shop\node_modules\cosmiconfig\dist\getDirectory.js133349912009018781 0
 75D:\Programming\my-shop\node_modules\csso\lib\replace\property\background.js133349912011308768 0
 71D:\Programming\my-shop\node_modules\csso\lib\replace\property\border.js133349912011338768 0
+72D:\Programming\my-shop\node_modules\csso\lib\replace\atrule\keyframes.js133349912011728793 0
 60D:\Programming\my-shop\node_modules\csso\lib\clean\Atrule.js133349912011208774 0
 59D:\Programming\my-shop\node_modules\csso\lib\clean\index.js133349912011648779 0
 57D:\Programming\my-shop\node_modules\csso\lib\clean\Raw.js133349912011778776 0
@@ -3519,6 +3529,7 @@
 125D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133349912012008801 0
 109D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\matches.js133349912011758775 0
 80D:\Programming\my-shop\node_modules\csso\cjs\restructure\4-restructShorthand.cjs133349912008798778 0
+46D:\Programming\my-shop\dist\index.d19cbebe.css133349917395688239 0
 76D:\Programming\my-shop\node_modules\csso\cjs\restructure\6-restructBlock.cjs133349912008958777 0
 88D:\Programming\my-shop\node_modules\caniuse-lite\data\features\keyboardevent-location.js133349912014288756 0
 64D:\Programming\my-shop\node_modules\csso\cjs\restructure\prepare133349912010598774 1
@@ -4125,6 +4136,7 @@
 69D:\Programming\my-shop\node_modules\css-select\lib\esm\general.js.map133349912010948797 0
 65D:\Programming\my-shop\node_modules\css-select\lib\esm\index.d.ts133349912011678767 0
 63D:\Programming\my-shop\node_modules\css-select\lib\esm\index.js133349912009598750 0
+50D:\Programming\my-shop\dist\index.99ba5a83.css.map133349917395798236 0
 59D:\Programming\my-shop\node_modules\async\forEachOfLimit.js133349912011508782 0
 71D:\Programming\my-shop\node_modules\css-select\lib\esm\pseudo-selectors133349912011778776 1
 74D:\Programming\my-shop\node_modules\@parcel\packager-js\src\dev-prelude.js133349912008768765 0
@@ -4197,7 +4209,6 @@
 55D:\Programming\my-shop\node_modules\concat-map\index.js133349912008218774 0
 67D:\Programming\my-shop\node_modules\caniuse-lite\data\regions\KH.js133349912014308755 0
 59D:\Programming\my-shop\node_modules\concat-map\package.json133349912007748759 0
-58D:\Programming\my-shop\node_modules\concat-map\test\map.js133349912008998760 0
 61D:\Programming\my-shop\node_modules\concat-map\example\map.js133349912008828771 0
 54D:\Programming\my-shop\node_modules\async\mapValues.js133349912011798773 0
 54D:\Programming\my-shop\node_modules\commondir\index.js133349912008268775 0
@@ -4457,6 +4468,7 @@
 118D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133349912009178793 0
 78D:\Programming\my-shop\node_modules\caniuse-lite\data\features\css-autofill.js133349912012218765 0
 71D:\Programming\my-shop\node_modules\@swc\helpers\_\_non_iterable_spread133349912013548757 1
+45D:\Programming\my-shop\dist\index.18dbc454.js133349920652505310 0
 88D:\Programming\my-shop\node_modules\caniuse-lite\data\features\css-background-offsets.js133349912012238772 0
 89D:\Programming\my-shop\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133349912012248797 0
 88D:\Programming\my-shop\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133349912012258778 0
@@ -5455,6 +5467,7 @@
 101D:\Programming\my-shop\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json133349912009108778 0
 97D:\Programming\my-shop\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133349912008448758 0
 63D:\Programming\my-shop\node_modules\@parcel\transformer-raw\lib133349912008068770 1
+48D:\Programming\my-shop\dist\main.573230cc.js.map133349917395798236 0
 67D:\Programming\my-shop\node_modules\@parcel\transformer-raw\LICENSE133349912007808773 0
 72D:\Programming\my-shop\node_modules\@parcel\transformer-raw\package.json133349912008538773 0
 63D:\Programming\my-shop\node_modules\@parcel\transformer-raw\src133349912008298773 1
@@ -5798,6 +5811,7 @@
 106D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133349912010118762 0
 98D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\syntaxes.json133349912010178769 0
 105D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\syntaxes.schema.json133349912010218777 0
+50D:\Programming\my-shop\dist\basket.690031ab.js.map133349920652585323 0
 102D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\types.schema.json133349912010308765 0
 95D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\units.json133349912010348780 0
 108D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\api\inheritance.schema.json133349912009568775 0
@@ -5857,6 +5871,7 @@
 106D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope\value.js133349912012228769 0
 105D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\has.js133349912011328788 0
 107D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\index.js133349912011588765 0
+46D:\Programming\my-shop\dist\index.0898f127.css133349920652505310 0
 105D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\not.js133349912011858774 0
 78D:\Programming\my-shop\node_modules\@parcel\core\src\requests\DevDepRequest.js133349912011478766 0
 111D:\Programming\my-shop\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133349912011868784 0
@@ -6075,6 +6090,7 @@
 119D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\DeclarationList.js133349912010898783 0
 112D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133349912011178790 0
 108D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Hash.js133349912011348769 0
+46D:\Programming\my-shop\dist\basket.690031ab.js133349920652535341 0
 114D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\IdSelector.js133349912011378773 0
 109D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\index.js133349912011568761 0
 114D:\Programming\my-shop\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\MediaQuery.js133349912011798773 0
@@ -6432,3 +6448,17 @@
 49D:\Programming\my-shop\node_modules\.bin\svgo.ps1133349912016928755 0
 63D:\Programming\my-shop\node_modules\.bin\update-browserslist-db133349912016978779 0
 67D:\Programming\my-shop\node_modules\.bin\update-browserslist-db.ps1133349912016978779 0
+46D:\Programming\my-shop\dist\basket.2bfe6224.js133349917395688239 0
+50D:\Programming\my-shop\dist\basket.2bfe6224.js.map133349917395798236 0
+51D:\Programming\my-shop\dist\catalog.52389cb2.js.map133349917395798236 0
+47D:\Programming\my-shop\dist\catalog.bae1f746.js133349920652545350 0
+45D:\Programming\my-shop\dist\index.0f965635.js133349917395688239 0
+50D:\Programming\my-shop\dist\index.c92073ef.css.map133349920652585323 0
+50D:\Programming\my-shop\dist\index.d19cbebe.css.map133349917395788238 0
+38D:\Programming\my-shop\dist\index.html133349920652505310 0
+44D:\Programming\my-shop\dist\main.00ff3c8c.js133349920652505310 0
+48D:\Programming\my-shop\dist\main.00ff3c8c.js.map133349920652585323 0
+44D:\Programming\my-shop\dist\main.573230cc.js133349917395688239 0
+47D:\Programming\my-shop\dist\product.32ff8da9.js133349920652535341 0
+51D:\Programming\my-shop\dist\product.32ff8da9.js.map133349920652585323 0
+47D:\Programming\my-shop\dist\product.3b068138.js133349917395688239 0
