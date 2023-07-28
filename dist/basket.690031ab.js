@@ -583,7 +583,7 @@ var _desc = require("../components/desc");
 function getBasketPage() {
     const page = document.createElement("div");
     page.classList.add("page", "basket-page");
-    const mainTitle = (0, _mainTitle.getMainTitle)("Козина");
+    const mainTitle = (0, _mainTitle.getMainTitle)("Корзина");
     const desc = (0, _desc.getDesc)("Страница в разработке");
     page.append(mainTitle, desc);
     return page;

@@ -85,8 +85,9 @@ button, select {
   text-transform: none;
 }
 
-button, [type="button"], [type="reset"], [type="submit"] {
-  -webkit-appearance: button;
+button, [type="button"], [type="reset"] {
+  border-style: none;
+  padding: 0;
 }
 
 button::-moz-focus-inner {
@@ -156,7 +157,6 @@ textarea {
 }
 
 [type="search"] {
-  -webkit-appearance: textfield;
   outline-offset: -2px;
 }
 
