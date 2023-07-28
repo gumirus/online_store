@@ -1,16 +1,22 @@
 {
+  "homepage": "https://gumirus.github.io/online_store/",
   "name": "my-shop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html"
+    "build": "parcel build ./src/index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "navigo": "^8.11.1",
     "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
